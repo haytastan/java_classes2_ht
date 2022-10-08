@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java_classes2_ht:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_classes2_ht_jar</output-path>
+    <root id="archive" name="java_classes2_ht.jar">
+      <element id="module-output" name="java_classes2_ht" />
+    </root>
+  </artifact>
+</component>
